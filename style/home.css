@@ -121,87 +121,86 @@
     width: 36vw;
     padding-left: 40px;
   }
-}
-.l-contact {
-  font-family: "Noto Sans Japanese";
-  background-color: #eee;
-  margin-top: 40px;
-  padding-top: 72px;
-}
-.l-contact h1 {
-  text-align: center;
-  font-size: 25px;
-  padding-bottom: 27px;
-}
-.l-contact p {
-  text-align: center;
-  font-size: 14px;
-  line-height: 1.7;
-}
-.l-contact form {
-  width: 700px;
-  padding: 40px 40px;
-  margin: 0 auto;
-}
-.l-contact form .box {
-  display: flex;
-  align-items: center;
-  margin: 20px;
-}
-.l-contact form label {
-  display: block;
-  float: left;
-  width: 200px;
-  color: #666;
-  font-size: 14px;
-  letter-spacing: 2px;
-}
-.l-contact form span {
-  background: #FCB2A9;
-  padding: 4px 4px;
-  font-size: 12px;
-  color: #fff;
-  margin-right: 10px;
-  border-radius: 3px;
-}
-.l-contact form .text, .l-contact form .dropdown, .l-contact form textarea {
-  border: 0px;
-  padding: 8px;
-  color: #888;
-  background: #fff;
-  border-radius: 6px;
-}
-.l-contact form button {
-  display: block;
-  text-align: center;
-  vertical-align: middle;
-  text-decoration: none;
-  width: 24vw;
-  margin: 60px auto;
-  padding: 0.5rem 4rem;
-  font-weight: bold;
-  border: 2px solid #888;
-  color: #fff;
-  border-radius: 100vh;
-  transition: 0.5s;
-  background: #888;
-}
-.l-contact form button:hover {
-  color: #888;
-  background: #eee;
-}
-.l-contact__line {
-  height: 30vh;
-  background-color: #fff;
-  padding: 40px;
-}
-.l-contact__line p {
-  text-align: center;
-}
-
-footer {
-  height: 30vh;
-  padding: 40px;
-  margin-top: 40px;
-  background-color: #f8f5ee;
+  .l-contact {
+    font-family: "Noto Sans Japanese";
+    background-color: #eee;
+    margin-top: 40px;
+    padding-top: 72px;
+  }
+  .l-contact h1 {
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 27px;
+  }
+  .l-contact p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  .l-contact form {
+    width: 700px;
+    padding: 40px 40px;
+    margin: 0 auto;
+  }
+  .l-contact form .box {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+  }
+  .l-contact form label {
+    display: block;
+    float: left;
+    width: 200px;
+    color: #666;
+    font-size: 14px;
+    letter-spacing: 2px;
+  }
+  .l-contact form span {
+    background: #FCB2A9;
+    padding: 4px 4px;
+    font-size: 12px;
+    color: #fff;
+    margin-right: 10px;
+    border-radius: 3px;
+  }
+  .l-contact form .text, .l-contact form .dropdown, .l-contact form textarea {
+    border: 0px;
+    padding: 8px;
+    color: #888;
+    background: #fff;
+    border-radius: 6px;
+  }
+  .l-contact form button {
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 24vw;
+    margin: 60px auto;
+    padding: 0.5rem 4rem;
+    font-weight: bold;
+    border: 2px solid #888;
+    color: #fff;
+    border-radius: 100vh;
+    transition: 0.5s;
+    background: #888;
+  }
+  .l-contact form button:hover {
+    color: #888;
+    background: #eee;
+  }
+  .l-contact__line {
+    height: 30vh;
+    background-color: #fff;
+    padding: 40px;
+  }
+  .l-contact__line p {
+    text-align: center;
+  }
+  footer {
+    height: 30vh;
+    padding: 40px;
+    margin-top: 40px;
+    background-color: #f8f5ee;
+  }
 }/*# sourceMappingURL=home.css.map */
